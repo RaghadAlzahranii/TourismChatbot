@@ -1,1 +1,2 @@
-# TourismChatbot
+# TourismChatbot 
+In this repository, you will find the early stages of launching a tourism emotion-based chatbot in Saudi Arabia. The provided dataset comprises over 7,000 places from various locations across the kingdom. The dataset has undergone thorough cleaning, modification, and preprocessing to ensure its quality and readiness for further development using different models. This prepared dataset serves as a valuable resource for training and fine-tuning the chatbot, enabling it to provide personalized recommendations and enhance the tourism experience in Saudi Arabia.
